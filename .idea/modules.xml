@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hc9.iml" filepath="$PROJECT_DIR$/.idea/modules/hc9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hc9_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hc9_main.iml" group="hc9" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hc9_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hc9_test.iml" group="hc9" />
+    </modules>
+  </component>
+</project>
