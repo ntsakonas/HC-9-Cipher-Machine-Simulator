@@ -49,7 +49,7 @@ HC-9 Key Space with 5 rotors , using all positions for initial state
  = 13,053,249,654,550,859,762,451,723,276,849,340,675,234,757,146,815,815,166,556,503,854,284,800
  ~ 1.305 x 10^70
 ```
-***Key space: ~ 1.305 x 10^70***
+**Key space: ~ 1.305 x 10^70**
 
 ### The HC9 with more rotors and using all the positions of the rotors as starting point
 This is not practical for the design and size of HC-9 as one of the biggest issues would be that the alphabets' drum would be large and hard to be accomodated by such a small machine.
@@ -75,7 +75,7 @@ But for the sake of comparison, *IF* HC-9 had rotors with these pin sizes: [29, 
  = 23,938,882,784,954,196,689,620,225,634,062,454,378,271,804,192,549,203,111,811,619,507,234,550,871,008,264,315,327,937,742,110,720
  ~ 2.393 x 10^97
 ```
-**Key space: ~ 2.393 x 10^97***
+**Key space: ~ 2.393 x 10^97**
 
 #### HC-9 Key Space with 8 rotors, using all positions for initial state 
 ```
@@ -85,7 +85,7 @@ But for the sake of comparison, *IF* HC-9 had rotors with these pin sizes: [29, 
  = 316,695,234,294,301,132,532,726,160,402,984,597,526,383,372,676,155,509,907,711,375,026,531,057,776,126,730,051,013,851,441,059,443,793,297,837,916,160
  ~ 3.166 x 10^113
 ```
-**Key space: ~ 3.166 x 10^113***
+**Key space: ~ 3.166 x 10^113**
 
 #### HC-9 Key Space with 9 rotors, using all positions for initial state 
 ```
@@ -95,7 +95,7 @@ But for the sake of comparison, *IF* HC-9 had rotors with these pin sizes: [29, 
  = 302,368,930,299,011,461,928,063,197,625,643,153,015,243,437,999,749,738,874,352,461,094,538,054,925,911,739,488,542,240,354,647,802,094,247,975,051,465,718,497,511,525,580,800
  ~ 3.023 x 10^131 
  ```
- ***Key space: ~ 3.023 x 10^131***
+ **Key space: ~ 3.023 x 10^131**
 
 #### HC-9 Key Space with 10 rotors, using all positions for initial state 
 ```
@@ -105,5 +105,5 @@ But for the sake of comparison, *IF* HC-9 had rotors with these pin sizes: [29, 
  = 20,567,850,881,602,244,475,951,023,959,801,460,394,840,945,394,439,340,295,798,069,676,872,155,800,265,056,569,888,963,752,461,034,955,842,616,942,617,856,217,167,014,924,446,876,414,531,507,941,539,840
  ~ 2.056 x 10^151
  ```
- ***Key space: ~ 2.056 x 10^151***
+ **Key space: ~ 2.056 x 10^151**
  
